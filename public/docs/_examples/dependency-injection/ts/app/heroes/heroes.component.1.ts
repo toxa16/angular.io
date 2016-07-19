@@ -2,9 +2,10 @@
 // #docregion full, v1
 import { Component }          from '@angular/core';
 
-// #enddocregion full, v1
 import { HeroListComponent }  from './hero-list.component.2';
+// #enddocregion v1
 import { HeroService }        from './hero.service.1';
+// #enddocregion full
 /*
 // #docregion full
 import { HeroListComponent }  from './hero-list.component';
